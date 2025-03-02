@@ -1,0 +1,6 @@
+vosk
+gTTS
+transformers
+torch
+sentencepiece
+sounddevice
